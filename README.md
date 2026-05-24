@@ -1,8 +1,9 @@
 # Elijah George Graham III
 
-Personal site for Elijah George Graham III, scaffolded in a few minutes with
-[Claude Code](https://claude.com/claude-code) as a demo of how fast you can
-go from "I don't have a site" to "here is my URL."
+Personal site for Elijah George Graham III — longshoreman at the
+[Port of Tacoma](https://www.portoftacoma.com). Scaffolded in a few minutes
+with [Claude Code](https://claude.com/claude-code) as a demo of how fast you
+can go from "I don't have a site" to "here is my URL."
 
 Live at **https://wikipediabrown.github.io/elijah-george-graham-iii/**
 
